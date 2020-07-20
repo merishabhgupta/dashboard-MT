@@ -1,0 +1,15 @@
+/* Columns */
+div.dropdown-multicol2{
+    width: 30em;
+  }
+  div.dropdown-multicol2>div.dropdown-col{
+    display:inline-block;
+    width: 32%;
+  }
+
+  .right {
+    border-right: 1px solid #ccc;
+}
+.multi-col {
+    width: max-content !important;
+}
